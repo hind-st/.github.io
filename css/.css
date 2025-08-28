@@ -1,4 +1,4 @@
-/* Custom CSS for Food, LLC
+/* Custom CSS for Food, LLC */
 body {
     font-family: Arial, sans-serif;
 }
@@ -63,25 +63,9 @@ h1 {
 }
 
 /* Media Queries for different screen sizes */
-/* @media (max-width: 767px) {
+@media (max-width: 767px) {
     .tall-section {
         margin-left: 15px;
         margin-right: 15px;
     }
-} */ 
- /* Style for tall section */
- div[style*="height: 1000px;"] {
-     background-color: lightgray;
- }
-
- /* Style for dropdown menu background */
- .navbar-collapse {
-     background-color: #333;
-     /* or any distinguishable color */
- }
-
- /* Optional: Style for "Back to Top" links */
- a[href="#top"] {
-     display: inline-block;
-     margin-top: 10px;
- }
+}
